@@ -1,7 +1,6 @@
 # Currency-Converter
-##Currency-Converter - CCD PaaS assignment and report
 
-# Currency Converter
+##Currency-Converter API - CCD PaaS assignment and report
 
 This is a currency converter web application API Used for my cloud computing development module report and assignment. It  fetches real-time data for currency conversion rates using HTML, CSS, and JavaScript. The application allows users to convert currencies by selecting the source currency and the target currency, and it provides an interface to easily switch between the two selected values.
 
