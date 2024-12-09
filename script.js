@@ -23,7 +23,7 @@ currency_list.forEach((currency) => {
 
     const newElementTo = newElement.cloneNode(true);
 
-    if (code === "INR")
+    if (code === "NGN")
         newElementTo.selected = true;
 
     toCurrencySelectTag.append(newElementTo);
