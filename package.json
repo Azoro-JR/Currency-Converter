@@ -1,0 +1,15 @@
+{
+    "name": "currency-converter",
+    "version": "1.0.0",
+    "description": "A real-time currency converter",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx http-server ."
+    },
+    "dependencies": {
+      "http-server": "^0.12.3"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
